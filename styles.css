@@ -10,14 +10,14 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 40px;
+    padding: 5.5vh 6vw;
     background-color: #fff;
     border-bottom: 1px solid #ddd;
 }
 
 header h1 {
     margin: 0;
-    font-size: 1.5em;
+    font-size: 1em;
 }
 
 nav ul {
@@ -69,6 +69,7 @@ button {
     background: none;
     border: 2px solid black;
     padding: 10px 20px;
+    border-radius: 6px;
     font-size: 1em;
     cursor: pointer;
     transition: background 0.3s ease;
