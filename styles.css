@@ -20,6 +20,10 @@ header h1 {
     font-size: 1em;
 }
 
+header a {
+    text-decoration: none;
+}
+
 nav ul {
     list-style: none;
     margin: 0;
@@ -28,7 +32,7 @@ nav ul {
 }
 
 nav li {
-    margin-left: 20px;
+    margin-left: 6vw;
 }
 
 nav a {
@@ -40,39 +44,38 @@ nav a {
 .intro {
     display: flex;
     align-items: center;
-    padding: 40px;
 }
 
 .intro-image img {
-    max-width: 100%;
+    max-width: 47vw;
     height: auto;
-    border-radius: 5px;
 }
 
 .intro-text {
-    max-width: 500px;
-    margin-left: 40px;
+    width: 45vw;
+    margin-left: 9vw;
 }
 
 .intro-text h2 {
     font-size: 2.5em;
-    margin: 0 0 20px;
+    margin: 2vh 2vw;
 }
 
 .intro-text p {
-    font-size: 1em;
+    font-size: 0.9em;
     line-height: 1.6;
-    margin: 0 0 20px;
+    margin: 2vh 2vw;
 }
 
 button {
     background: none;
     border: 2px solid black;
     padding: 10px 20px;
-    border-radius: 6px;
+    border-radius: 27px;
     font-size: 1em;
     cursor: pointer;
     transition: background 0.3s ease;
+    margin: 2vh 2vw;
 }
 
 button:hover {
