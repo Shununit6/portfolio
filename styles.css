@@ -82,3 +82,59 @@ button:hover {
     background: black;
     color: white;
 }
+
+.portfolio {
+    padding: 40px;
+    text-align: center;
+}
+
+.portfolio h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.portfolio-items {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.portfolio-item {
+    max-width: 300px;
+    margin: 20px;
+    text-align: center;
+}
+
+.portfolio-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.portfolio-item button {
+    display: block;
+    margin: 10px auto;
+}
+
+.cta {
+    text-align: center;
+    padding: 40px;
+}
+
+.cta-image img {
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 50%;
+}
+
+.cta-text h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.cta-text p {
+    font-size: 1em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
