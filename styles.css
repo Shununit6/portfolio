@@ -83,6 +83,39 @@ button:hover {
     color: white;
 }
 
+.skills {
+    padding: 40px;
+    text-align: center;
+}
+
+.skills h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.skills-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.skill {
+    max-width: 200px;
+    margin: 20px;
+    text-align: center;
+}
+
+.skill h4 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.skill p {
+    font-size: 1em;
+    line-height: 1.6;
+}
+
 .portfolio {
     padding: 40px;
     text-align: center;
