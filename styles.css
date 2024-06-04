@@ -140,7 +140,8 @@ button:hover {
 
 .portfolio-item img {
     width: 100%;
-    height: auto;
+    min-height: 276px;
+    object-fit: fill;
     border-radius: 5px;
 }
 
