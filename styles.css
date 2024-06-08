@@ -84,7 +84,7 @@ button:hover {
 }
 
 .skills {
-    padding: 40px;
+    padding: 5.5vh 10vw;
     text-align: center;
 }
 
@@ -103,7 +103,7 @@ button:hover {
 .skill {
     max-width: 200px;
     margin: 20px;
-    text-align: center;
+    text-align: start;
 }
 
 .skill h4 {
@@ -135,7 +135,7 @@ button:hover {
 .portfolio-item {
     max-width: 320px;
     margin: 20px;
-    text-align: center;
+    text-align: start;
 }
 
 .portfolio-item img {
@@ -152,7 +152,7 @@ button:hover {
 
 .cta {
     text-align: center;
-    padding: 40px;
+    padding: 5.5vh 12vw;
 }
 
 .cta-image img {
@@ -171,4 +171,5 @@ button:hover {
     font-size: 1em;
     line-height: 1.6;
     margin-bottom: 20px;
+    text-align: start;
 }
