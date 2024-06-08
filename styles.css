@@ -10,9 +10,15 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 5.5vh 6vw;
+    padding: 3.5vh 6vw;
     background-color: #fff;
     border-bottom: 1px solid #ddd;
+    position: fixed;
+    overflow: scroll;
+    top: 0;
+    left: 0;
+    right: 0;
+
 }
 
 header h1 {
@@ -44,6 +50,7 @@ nav a {
 .intro {
     display: flex;
     align-items: center;
+    margin-top: 10vh;
 }
 
 .intro-image img {
