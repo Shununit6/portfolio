@@ -116,6 +116,7 @@ button:hover {
 .skill h4 {
     font-size: 1.2em;
     margin-bottom: 10px;
+    text-align: center;
 }
 
 .skill p {
@@ -155,6 +156,10 @@ button:hover {
 .portfolio-item button {
     display: block;
     margin: 10px auto;
+}
+
+.portfolio-item a {
+    text-decoration: none;
 }
 
 .cta {
