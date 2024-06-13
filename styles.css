@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Times New Roman, serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -93,6 +93,7 @@ button:hover {
 .skills {
     padding: 5.5vh 10vw;
     text-align: center;
+    background: linear-gradient(150deg, white 20%, #e6dbd1  80%);
 }
 
 .skills h2 {
@@ -127,6 +128,7 @@ button:hover {
 .portfolio {
     padding: 40px;
     text-align: center;
+    background: linear-gradient(270deg, white 25%, #e6dfd8 75%);
 }
 
 .portfolio h2 {
@@ -150,7 +152,6 @@ button:hover {
     width: 100%;
     min-height: 276px;
     object-fit: fill;
-    border-radius: 5px;
 }
 
 .portfolio-item button {
@@ -165,6 +166,7 @@ button:hover {
 .cta {
     text-align: center;
     padding: 5.5vh 12vw;
+    background: linear-gradient(180deg, white 25%, #ead9c8 75%);
 }
 
 .cta-image img {
