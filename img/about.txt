@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Sura
+- Font Author: Copyright 2015 by Carolina Giovagnoli. All rights reserved.
+- Font Source: https://fonts.gstatic.com/s/sura/v19/SZc53FL5PbyzLUJ7fz3GkUrS8DI.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
